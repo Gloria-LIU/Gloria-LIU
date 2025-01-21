@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Haoran Liu @Gloria-LIU
-- 👀 I’m a PhD student in Texas A&M University ...
-- 🌱 I’m currently working on Graphs/Geometric Learning advised by Dr.James Caverlee in TAMU InfoLab ...
-- 💞️ I’m looking to collaborate on Graph Learning for LLMs and/or AI4DD (molecules, proteins, RNA/DNA) ...
+- 🤠 Howdy! I’m Haoran Liu.
+- 👀 I’m a PhD student in Texas A&M University.
+- 🌱 I’m currently working on Graphs/Geometric Learning advised by Dr.James Caverlee in TAMU InfoLab.
+- 💞️ I’m looking to collaborate on Graph Learning for LLMs and/or AI4DD (molecules, proteins, RNA/DNA).
 - 📫 How to reach me: liuhr99@tamu.edu
 
 <!---
